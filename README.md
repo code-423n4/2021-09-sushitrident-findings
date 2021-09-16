@@ -38,10 +38,10 @@ Feel free to use the `question` label to anything you would like additional C4 i
 Label each finding as one of these:
 
 - `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it."
-- `sponsor disputed`, meaning either: "We could not duplicate this issue" or "We disagree that this is an issue at all."
+- `sponsor disputed`, meaning either: "We cannot duplicate this issue" or "We disagree that this is an issue at all."
 - `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
-Note that it isn't necessary to dispute a finding in order to suggest it should be considered of lower or higher severity.
+(Note: that it isn't necessary to dispute a finding in order to suggest it should be considered of lower or higher severity.)
 
 Add any necessary comments explaining your rationale for your evaluation of the issue. Note that when the repo is public after all issues are mitigated, wardens will read these comments.
 
