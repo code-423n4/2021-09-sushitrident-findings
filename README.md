@@ -10,9 +10,9 @@ Typically most findings come in **on the last day of the contest**, so don't be 
 
 As a sponsor, you have four critical tasks in the contest process:
 
-1. Handle duplicate issues.
-2. Weigh in on severity.
-3. Respond to issues.
+1. Handle duplicate issues,
+2. Weigh in on severity,
+3. Respond to issues,
 4. Share your mitigation of findings.
 
 Let's walk through each of these.
@@ -37,8 +37,8 @@ Feel free to use the `question` label to anything you would like additional C4 i
 
 Label each finding as one of these:
 
-- `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it.")
-- `sponsor disputed`, meaning either: "We either not duplicate this issue" or "We disagree that this is an issue at all."
+- `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it."
+- `sponsor disputed`, meaning either: "We could not duplicate this issue" or "We disagree that this is an issue at all."
 - `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
 Note that it isn't necessary to dispute a finding in order to suggest it should be considered of lower or higher severity.
