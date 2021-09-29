@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Allowing direct single-step ownership transfer even as an option is risky",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/58"
+}
