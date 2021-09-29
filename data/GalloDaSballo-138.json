@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "1",
+  "title": "Lack of address validation in `MasterDeployer.addToWhitelist`",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/138"
+}
