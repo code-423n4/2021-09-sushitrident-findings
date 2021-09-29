@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`IndexPool` performs several unsafe type casts",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/83"
+}
