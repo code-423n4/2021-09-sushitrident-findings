@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "GreyArt",
+  "address": "0x07f0571566E4b07eA825798A70Fd67fE79077f4E",
+  "risk": "G",
+  "title": "ConstantProductPool: Unnecessary mod before casting to uint32",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/37"
+}
