@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "broccoli",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "2",
+  "title": "Users are susceptible to back-running when depositing ETH to `TridenRouter`",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/179"
+}
