@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Use of unchecked can save gas where computation is known to be overflow/underflow safe",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/62"
+}
