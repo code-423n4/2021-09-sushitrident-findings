@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Router's `complexPath` percentagePaths don't work as expected",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/87"
+}
