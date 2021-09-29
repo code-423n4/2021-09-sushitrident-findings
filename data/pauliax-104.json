@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "0",
+  "title": "MAX_FEE_SQUARE dependency on MAX_FEE",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/104"
+}
