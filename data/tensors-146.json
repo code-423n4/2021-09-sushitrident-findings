@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 1",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "G",
+  "title": "Mutex Lock gas optimization",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-findings/issues/146"
+}
