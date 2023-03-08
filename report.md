@@ -1,3 +1,11 @@
+---
+sponsor: "Sushi"
+slug: "2021-09-sushitrident"
+date: "2021-11-22"
+title: "Sushi Trident contest phase 1"
+findings: "https://github.com/code-423n4/2021-09-sushitrident-findings/issues"
+contest: 29
+---
 
 # Overview
 
